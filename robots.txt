@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orsonanti.github.io/sitemap
+Sitemap: https://orsonanti.github.io/app/sitemap
+Sitemap: https://orsonanti.github.io/assets/sitemap
+Sitemap: https://orsonanti.github.io/css/sitemap
+Sitemap: https://orsonanti.github.io/includes/sitemap
+Sitemap: https://orsonanti.github.io/item/sitemap
+Sitemap: https://orsonanti.github.io/src/sitemap
